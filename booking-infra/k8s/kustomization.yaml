@@ -42,7 +42,7 @@ images:
   newTag: e66a9eaf53ae413295523d7eaa3bc7823cd005de
 - name: ghcr.io/sde-w/itachi-booking
   newName: ghcr.io/sde-w/itachi-booking
-  newTag: e66a9eaf53ae413295523d7eaa3bc7823cd005de
+  newTag: 8d75f67cad9c55a045d31061eeb070441962958e
 - name: ghcr.io/sde-w/itachi-booking-expiry-worker
   newName: ghcr.io/sde-w/itachi-booking-expiry-worker
   newTag: e66a9eaf53ae413295523d7eaa3bc7823cd005de
